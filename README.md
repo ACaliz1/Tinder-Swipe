@@ -16,4 +16,4 @@
 
 1. Clona el repositorio:
 
-   git clone https://github.com/tuusuario/tinder-swipe-match.git
+   git clone https://github.com/ACaliz1/Tinder-Swipe.git
