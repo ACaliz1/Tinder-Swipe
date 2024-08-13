@@ -313,7 +313,7 @@
       document.removeEventListener('touchmove', onMove)
       document.removeEventListener('touchend', onEnd)
 
-      // saber si el usuario tomo una decisión
+      // know if the user made a decision
       const decisionMade = Math.abs(pullDeltaX) >= DECISION_THRESHOLD
 
       if (decisionMade) {
